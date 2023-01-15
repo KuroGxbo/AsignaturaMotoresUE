@@ -5057,3 +5057,1206 @@ Please see Output Log for details.
 [2023.01.15-00.51.34:569][830]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/BlueDiamond.BlueDiamond
 [2023.01.15-00.51.34:569][830]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/3Diamonds_Diamond_Blueprint.3Diamonds_Diamond_Blueprint
 [2023.01.15-00.51.34:569][830]LogContentValidation: Display: Validating /Game/Blueprints/Actor_Blueprint.Actor_Blueprint_C /Game/InitMap.InitMap:PersistentLevel.Actor_Blueprint_C_UAID_581122EA5F42D65C01_1270589978
+[2023.01.15-00.56.14:329][ 56]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Documentos\MaestriaVideJuegos\Unreal\SFX Pack 1\FX 4 (cancel).wav)
+[2023.01.15-00.56.14:338][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_4__cancel_...
+[2023.01.15-00.56.14:346][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_4__cancel_.FX_4__cancel_: 262144
+[2023.01.15-00.56.14:346][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_4__cancel_...
+[2023.01.15-00.56.14:349][ 56]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Documentos\MaestriaVideJuegos\Unreal\SFX Pack 1\FX 5 (chimes).wav)
+[2023.01.15-00.56.14:354][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_4__cancel_.FX_4__cancel_: 262144
+[2023.01.15-00.56.14:355][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_5__chimes_...
+[2023.01.15-00.56.14:399][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_5__chimes_.FX_5__chimes_: 262144
+[2023.01.15-00.56.14:401][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_5__chimes_...
+[2023.01.15-00.56.14:402][ 56]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Documentos\MaestriaVideJuegos\Unreal\SFX Pack 1\FX 6 (hover, accept).wav)
+[2023.01.15-00.56.14:404][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_6__hover__accept_...
+[2023.01.15-00.56.14:413][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_6__hover__accept_.FX_6__hover__accept_: 262144
+[2023.01.15-00.56.14:413][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_6__hover__accept_...
+[2023.01.15-00.56.14:418][ 56]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Documentos\MaestriaVideJuegos\Unreal\SFX Pack 1\FX 7 (ambient).wav)
+[2023.01.15-00.56.14:423][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_7__ambient_...
+[2023.01.15-00.56.14:480][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_6__hover__accept_.FX_6__hover__accept_: 262144
+[2023.01.15-00.56.14:480][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_7__ambient_.FX_7__ambient_: 262144
+[2023.01.15-00.56.14:480][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_5__chimes_.FX_5__chimes_: 262144
+[2023.01.15-00.56.14:480][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_7__ambient_...
+[2023.01.15-00.56.14:484][ 56]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Documentos\MaestriaVideJuegos\Unreal\SFX Pack 1\FX a8 (hover).wav)
+[2023.01.15-00.56.14:487][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_a8__hover_...
+[2023.01.15-00.56.14:511][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_a8__hover_.FX_a8__hover_: 262144
+[2023.01.15-00.56.14:511][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_a8__hover_...
+[2023.01.15-00.56.14:515][ 56]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Documentos\MaestriaVideJuegos\Unreal\SFX Pack 1\FX a9 (cancel).wav)
+[2023.01.15-00.56.14:518][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_a9__cancel_...
+[2023.01.15-00.56.14:542][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_7__ambient_.FX_7__ambient_: 262144
+[2023.01.15-00.56.14:548][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_a9__cancel_.FX_a9__cancel_: 262144
+[2023.01.15-00.56.14:548][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_a8__hover_.FX_a8__hover_: 262144
+[2023.01.15-00.56.14:549][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_a9__cancel_...
+[2023.01.15-00.56.14:551][ 56]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Documentos\MaestriaVideJuegos\Unreal\SFX Pack 1\FX a10 (accept).wav)
+[2023.01.15-00.56.14:553][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_a10__accept_...
+[2023.01.15-00.56.14:571][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_a10__accept_.FX_a10__accept_: 262144
+[2023.01.15-00.56.14:572][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_a10__accept_...
+[2023.01.15-00.56.14:574][ 56]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Documentos\MaestriaVideJuegos\Unreal\SFX Pack 1\FX 1 (accept).wav)
+[2023.01.15-00.56.14:576][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_1__accept_...
+[2023.01.15-00.56.14:594][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_1__accept_.FX_1__accept_: 262144
+[2023.01.15-00.56.14:594][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_1__accept_...
+[2023.01.15-00.56.14:594][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_a9__cancel_.FX_a9__cancel_: 262144
+[2023.01.15-00.56.14:596][ 56]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Documentos\MaestriaVideJuegos\Unreal\SFX Pack 1\FX 1 v2 (accept).wav)
+[2023.01.15-00.56.14:598][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_1_v2__accept_...
+[2023.01.15-00.56.14:612][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_a10__accept_.FX_a10__accept_: 262144
+[2023.01.15-00.56.14:613][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_1_v2__accept_.FX_1_v2__accept_: 262144
+[2023.01.15-00.56.14:613][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_1__accept_.FX_1__accept_: 262144
+[2023.01.15-00.56.14:613][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_1_v2__accept_...
+[2023.01.15-00.56.14:615][ 56]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Documentos\MaestriaVideJuegos\Unreal\SFX Pack 1\FX 2 (hover, accept).wav)
+[2023.01.15-00.56.14:616][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_2__hover__accept_...
+[2023.01.15-00.56.14:626][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_2__hover__accept_.FX_2__hover__accept_: 262144
+[2023.01.15-00.56.14:626][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_2__hover__accept_...
+[2023.01.15-00.56.14:628][ 56]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Documentos\MaestriaVideJuegos\Unreal\SFX Pack 1\FX 3 (accept).wav)
+[2023.01.15-00.56.14:630][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_3__accept_...
+[2023.01.15-00.56.14:636][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_1_v2__accept_.FX_1_v2__accept_: 262144
+[2023.01.15-00.56.14:643][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_3__accept_.FX_3__accept_: 262144
+[2023.01.15-00.56.14:643][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_2__hover__accept_.FX_2__hover__accept_: 262144
+[2023.01.15-00.56.14:643][ 56]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave FX_3__accept_...
+[2023.01.15-00.56.14:657][ 56]LogAudio: Display: Chunk size for SoundWave /Game/Audio/FX_3__accept_.FX_3__accept_: 262144
+[2023.01.15-00.56.18:001][224]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave The_Invasion...
+[2023.01.15-00.56.18:001][224]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave The_Invasion...
+[2023.01.15-00.56.19:689][224]LogAudio: Display: Chunk size for SoundWave /Game/Audio/The_Invasion.The_Invasion: 262144
+[2023.01.15-00.57.34:700][421]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 D:\Documentos\MaestriaVideJuegos\ActividadClase\anotherChange\AsignaturaMotores\Assets\Assets Motores\Assets Motores\Audio\Another Winter.wav)
+[2023.01.15-00.57.34:785][421]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Another_Winter...
+[2023.01.15-00.57.34:811][421]LogAudioDerivedData: Display: Audio clipped during cook: This asset will be normalized by a factor of 1/1.000031. Consider attenuating the above asset.
+[2023.01.15-00.57.35:634][421]LogAudio: Display: Chunk size for SoundWave /Game/Audio/Another_Winter.Another_Winter: 262144
+[2023.01.15-00.57.35:654][421]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Another_Winter...
+[2023.01.15-00.57.35:674][421]LogAudioDerivedData: Display: Audio clipped during cook: This asset will be normalized by a factor of 1/1.000031. Consider attenuating the above asset.
+[2023.01.15-00.57.36:497][425]LogAudio: Display: Chunk size for SoundWave /Game/Audio/Another_Winter.Another_Winter: 262144
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: ================================================
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: Total job queries 698, among them cache hits 209 (29.94%)
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: Tracking 489 distinct input hashes that result in 240 distinct outputs (49.08%)
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: RAM used: 3.55 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.22%
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: Shaders Compiled: 66
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: Jobs assigned 66, completed 66 (100.00%)
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: Average time worker was idle: 245.72 s
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: Time job spent in pending queue: average 0.21 s, longest 0.98 s
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: Job execution time: average 0.75 s, max 1.24 s
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: Job life time (pending + execution): average 0.96 s, max 1.50
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.56 s
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: Jobs were issued in 66 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: Average processing rate: 6.25 jobs/sec
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: Total thread time: 38.06 s
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: Total thread preprocess time: 2.60 s
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: Percentage time preprocessing: 6.83%
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: Effective parallelization: 3.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    3 times, average 0.73 sec, max 0.76 sec, min 0.66 sec)
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    3 times, average 0.72 sec, max 0.74 sec, min 0.71 sec)
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    3 times, average 0.72 sec, max 0.74 sec, min 0.68 sec)
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 0.70 sec, max 0.73 sec, min 0.66 sec)
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 0.70 sec, max 0.73 sec, min 0.63 sec)
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.03% of total time (compiled    8 times, average 0.67 sec, max 0.81 sec, min 0.52 sec)
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.43% of total time (compiled    8 times, average 0.64 sec, max 0.85 sec, min 0.48 sec)
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.03% of total time (compiled    6 times, average 0.51 sec, max 0.56 sec, min 0.44 sec)
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 5.72% of total time (compiled    3 times, average 0.73 sec, max 0.76 sec, min 0.66 sec)
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.71% of total time (compiled    3 times, average 0.72 sec, max 0.74 sec, min 0.71 sec)
+[2023.01.15-00.57.49:662][373]LogShaderCompilers: Display: ================================================
+[2023.01.15-00.57.49:682][374]LogScript: Warning: Accessed None trying to read property PlayerGlasses
+	AnimationPlayer_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimationPlayer_C_0
+	Function /Game/Character/AnimationPlayer.AnimationPlayer_C:ExecuteUbergraph_AnimationPlayer:0020
+[2023.01.15-00.57.49:682][374]LogScript: Warning: Accessed None trying to read property MovementComponent
+	AnimationPlayer_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimationPlayer_C_0
+	Function /Game/Character/AnimationPlayer.AnimationPlayer_C:ExecuteUbergraph_AnimationPlayer:0131
+[2023.01.15-00.57.49:682][374]LogScript: Warning: Accessed None trying to read property MovementComponent
+	AnimationPlayer_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimationPlayer_C_0
+	Function /Game/Character/AnimationPlayer.AnimationPlayer_C:ExecuteUbergraph_AnimationPlayer:01AC
+[2023.01.15-00.57.49:682][374]LogScript: Warning: Accessed None trying to read property PlayerGlasses
+	AnimationPlayer_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimationPlayer_C_0
+	Function /Game/Character/AnimationPlayer.AnimationPlayer_C:ExecuteUbergraph_AnimationPlayer:01F1
+[2023.01.15-00.57.49:682][374]LogScript: Warning: Accessed None trying to read property PlayerGlasses
+	AnimationPlayer_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimationPlayer_C_0
+	Function /Game/Character/AnimationPlayer.AnimationPlayer_C:ExecuteUbergraph_AnimationPlayer:021D
+[2023.01.15-00.57.49:682][374]LogScript: Warning: Accessed None trying to read property PlayerGlasses
+	AnimationPlayer_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimationPlayer_C_0
+	Function /Game/Character/AnimationPlayer.AnimationPlayer_C:ExecuteUbergraph_AnimationPlayer:0249
+[2023.01.15-00.57.49:682][374]LogScript: Warning: Accessed None trying to read property PlayerGlasses
+	AnimationPlayer_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimationPlayer_C_0
+	Function /Game/Character/AnimationPlayer.AnimationPlayer_C:ExecuteUbergraph_AnimationPlayer:0275
+[2023.01.15-00.57.49:682][374]LogScript: Warning: Accessed None trying to read property PlayerGlasses
+	AnimationPlayer_C /Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AnimationPlayer_C_0
+	Function /Game/Character/AnimationPlayer.AnimationPlayer_C:ExecuteUbergraph_AnimationPlayer:00FE
+[2023.01.15-00.57.52:536][583]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/Player_Glasses.Player_Glasses
+[2023.01.15-00.57.52:536][583]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.15-00.57.55:198][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.15-00.57.55:293][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Player_Glasses" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Character/Player_Glasses.uasset" SILENT=true
+[2023.01.15-00.57.55:317][716]LogSavePackage: Moving output files for package: /Game/Character/Player_Glasses
+[2023.01.15-00.57.55:317][716]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/Player_Glasses564A2C3D413655716E857F87C9C60EC3.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Character/Player_Glasses.uasset'
+[2023.01.15-00.57.55:324][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 7.70 sec)
+[2023.01.15-00.57.55:330][716]AssetCheck: New page: Asset Save: Player_Glasses
+[2023.01.15-00.57.55:330][716]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Character/Player_Glasses.Player_Glasses
+[2023.01.15-00.58.51:342][876]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Assets_Motores/Assets_Motores/Audio/action_music.action_music
+[2023.01.15-00.58.53:238][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.15-00.58.53:360][ 19]LogSavePackage: Moving output files for package: /Game/Assets_Motores/Assets_Motores/Audio/action_music
+[2023.01.15-00.58.53:360][ 19]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/action_music4AFBEBC14DF76DCA191DF7B700CB8E29.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Assets_Motores/Assets_Motores/Audio/action_music.uasset'
+[2023.01.15-00.58.53:370][ 19]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 7.83 sec)
+[2023.01.15-00.58.53:378][ 19]AssetCheck: New page: Asset Save: action_music
+[2023.01.15-00.58.53:378][ 19]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Assets_Motores/Assets_Motores/Audio/action_music.action_music
+[2023.01.15-00.59.15:583][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.15-00.59.15:662][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Player_Glasses" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Character/Player_Glasses.uasset" SILENT=true
+[2023.01.15-00.59.15:686][115]LogSavePackage: Moving output files for package: /Game/Character/Player_Glasses
+[2023.01.15-00.59.15:686][115]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/Player_Glasses6DBE9F5B4690A3FAFF05E48BA60463E2.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Character/Player_Glasses.uasset'
+[2023.01.15-00.59.15:695][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 7.94 sec)
+[2023.01.15-00.59.15:700][115]AssetCheck: New page: Asset Save: Player_Glasses
+[2023.01.15-00.59.15:700][115]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Character/Player_Glasses.Player_Glasses
+[2023.01.15-00.59.16:275][150]BlueprintLog: New page: Compile Player_Glasses
+[2023.01.15-00.59.16:432][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.01.15-00.59.18:909][319]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.15-00.59.18:920][319]LogContentBundle: [Container: InitMap] Generating Streaming for 0 Content Bundles.
+[2023.01.15-00.59.18:923][319]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.15-00.59.18:923][319]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.15-00.59.18:923][319]LogWorldPartition: Display: GetPartitionedActors took 22 us (total: 393 us)
+[2023.01.15-00.59.19:034][319]LogWorldPartition: Display: GenerateStreaming took 111 ms (total: 2.19 sec)
+[2023.01.15-00.59.19:035][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.15-00.59.19:035][319]PIE: New page: PIE session: InitMap (14/01/2023, 2:59:19 p. m.)
+[2023.01.15-00.59.19:035][319]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_InitMap
+[2023.01.15-00.59.19:052][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017162s)
+[2023.01.15-00.59.19:052][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InitMap.InitMap to /Game/UEDPIE_0_InitMap.InitMap (0.017194s)
+[2023.01.15-00.59.19:052][319]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.15-00.59.19:052][319]LogAIModule: Creating AISystem for world InitMap
+[2023.01.15-00.59.19:053][319]LogWorldPartition: ULevel::OnLevelLoaded(InitMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.01.15-00.59.19:053][319]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.15-00.59.19:053][319]LogWorldPartition: UWorldPartition::Initialize(Asset=InitMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.01.15-00.59.19:055][319]LogContentBundle: [Container: InitMap] Creating new contrainer.
+[2023.01.15-00.59.19:055][319]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 165 ms)
+[2023.01.15-00.59.19:055][319]LogPlayLevel: PIE: World Init took: (0.003604s)
+[2023.01.15-00.59.19:106][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.01.15-00.59.19:108][319]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.01.15-00.59.19:108][319]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.15-00.59.19:108][319]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.15-00.59.19:108][319]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.15-00.59.19:108][319]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.15-00.59.19:108][319]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.01.15-00.59.19:108][319]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.15-00.59.19:108][319]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.01.15-00.59.19:108][319]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.15-00.59.19:108][319]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.15-00.59.19:108][319]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.15-00.59.19:108][319]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.15-00.59.19:110][319]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.15-00.59.19:127][319]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2023.01.15-00.59.19:127][319]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.15-00.59.19:127][319]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.15-00.59.19:127][319]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.15-00.59.19:128][319]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.01.15-00.59.19:128][319]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.01.15-00.59.19:129][319]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.01.15-00.59.19:129][319]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.01.15-00.59.19:129][319]LogInit: FAudioDevice initialized.
+[2023.01.15-00.59.19:129][319]LogAudio: Display: Audio Device (ID: 19) registered with world 'InitMap'.
+[2023.01.15-00.59.19:132][319]LogLoad: Game class is 'GameModePlayer_C'
+[2023.01.15-00.59.19:133][319]LogWorld: Bringing World /Game/UEDPIE_0_InitMap.InitMap up for play (max tick rate 0) at 2023.01.14-19.59.19
+[2023.01.15-00.59.19:133][319]LogWorld: Bringing up level for play took: 0.000749
+[2023.01.15-00.59.19:134][319]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.01.15-00.59.19:136][319]LogWorldPartition: New Streaming Source: PlayerGlassesController_C_0 -> Position: X=13338.499 Y=9848.065 Z=1435.878
+[2023.01.15-00.59.19:136][319]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2023.01.15-00.59.19:136][319]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=13338.499 Y=9848.065 Z=1435.878,P=0.000000 Y=144.435932 R=-0.000000
+[2023.01.15-00.59.19:150][319]LogActor: Warning: Actor folder B7E9BD5B45A652654791988DEF54CCEB for actor PointLight_UAID_601895650CC6E74F01_1790524248 encountered when not using actor folders
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/F/44/ESQWKOSU6UW7LEIDMGW4CW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/E/ZK/WD107PAYC3VC2WHSAZMDZ1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/E/YT/98P2GOHZ19R2XA90VH404C.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/E/VU/AIZFQLE0XR35B1WCT4YCO1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/E/5R/VFKFCVUFIV4M02K6BG38JO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/E/4X/R6209XY2V92H3N315TE4SC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/D/OJ/0I558M9F9JIVU5YB0FNJMR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/D/BR/1SHLK3LV3AKZC42WXW6ST8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/D/28/QT3KGA0IVAESV7N5JSO9AC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/C/YI/564WQ24JPILW9XSQJ9YB06.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/C/RZ/DRTWFX3M0JWIUHUYSF2D66.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/C/Q4/X0DX5AK0O88IUG5XGD5P2V.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/C/IX/JMPK55XWP8RIBY0XFG76A2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/B/KW/1Q9PM5LPNBPT3LOZXD1WBG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/A/JG/KHTERVIMV3QD9L7VVF99Y5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/A/0W/A1MO425QPU4SS4IUBJSCKV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/9/W4/LCTCXHY5B9NAUZF5ZXV5XN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/9/40/0I4XT0M3WYML64MFK8RY1R.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/WQ/52I84KPR3EIKA0SMGFO2DR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/RG/AINZ13I1BQVEEY4WKIXCU8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/QP/AWU6G09NDWWS6STRWV6AYT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/JT/ZE1KBK5RL5XBSGH57V685R.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/B6/LXXJHD12DG16684N0VO1OE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/0M/YM21N9HUOYWF364VHT54G4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/0K/VHFGFBJP5W630MF2U48RYH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/WC/4ZGA7K5DQMAQA7X0JBZ3XZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/Q5/VPWARTRCSKYZK0O5H6ID44.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/Q3/QI62WL8CFMEHHQJOKYVTRZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/PD/0APA7XIZ6LGZVGYIXCBBVN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/JV/QMB50F1Y8W6SAVKDHXCHZT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/IR/64OQ1PY69D5RHQUL0QDTWN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/EN/OCMQ7L1VC7LHYDBOVJ8G80.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/YL/QO5N7G8KZLN9AIJLDGY32C.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/S3/T5IBH6EWU3TH4MRZXWYFKD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/N1/8RKG6CQCHV7TRIYR1LCHHG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/IU/6YLCD7WV8TXYWRL74XJMTF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/CV/19GIOZMGH14ERTKQCSG8R3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/C8/MXKIFBXOKUBG322T1L5MGR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/4Y/CWSLKPJLFJAKSQI1IXJP69.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/TA/3K9H746VQN746BA38GDUVR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/RF/RI7DZYVHD84XOSDFXB26RR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/FJ/WBZWC94C379H1OSMLVF8F9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:203][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/DK/22X0XITJAJQ58RKIZ6S30K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:204][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/8C/0KOPKH059PY64M4INC9COZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:204][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/7B/CK5IS1JF8Q5AB88SD8GCHB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:204][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/4/ZF/3O5UU8Z6Q5WD35LN1EI1QK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:204][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/4/BL/KXNFKPWEPA3SOCSZSLNYYG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:204][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/4/3H/6W0ACO7RXIKCWTYZGRCZ95.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:204][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/3/VW/TY1QQ3HS2BAJI07D4EVEPY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:204][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/3/N9/RNGIFQTITTEAMA2TWRVNHR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:204][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/3/6R/V8AL0DFZMRX3F8C86W4PS5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:204][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/2/Q2/NENGY2MI4642AG9V34HAUT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:204][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/2/LH/AZ0VXO5EC2H9MJS2ASDEQ1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:204][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/2/J4/ZOYS07AINCQMK5ZJE7HAFB.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.01.15-00.59.19:204][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/2/BE/1XKD2AYW6IH5N37EKW57M8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:204][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/2/3J/T855RM6UNDTTKLNWVRSXU3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:204][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/1/J4/394F8N44PTNRA4G0YBL0IF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:204][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/1/BG/AZROLS9I6B32VYXZNZ5MY8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:204][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/1/5Q/SPAXVK9S1FULZ8TB2PZQVS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:204][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/1/50/DR1ICXHZ6VCAFKD8IJX1T5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:204][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/1/3F/IO39P962J6RDTNF9DT299V.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:204][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/0/QY/WZ38XQUCYMGKWLANFRGAGY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:204][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/0/FT/YZUSWAZ02W61DH3QLSAM4Z.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:204][319]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/0/34/XLN0GWMFBSE03A1ZOLTBU1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.19:262][319]LogStreaming: Display: FlushAsyncLoading(-1): 1 QueuedPackages, 0 AsyncPackages
+[2023.01.15-00.59.19:265][319]PIE: Server logged in
+[2023.01.15-00.59.19:266][319]PIE: Play in editor total start time 0,347 seconds.
+[2023.01.15-00.59.24:912][753]LogBlueprintUserMessages: [Bullet_C_0] Character Damage
+[2023.01.15-00.59.31:031][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.15-00.59.31:031][242]LogWorld: BeginTearingDown for /Game/UEDPIE_0_InitMap
+[2023.01.15-00.59.31:033][242]LogWorld: UWorld::CleanupWorld for InitMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.15-00.59.31:034][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-00.59.31:034][242]LogContentBundle: [Container: InitMap] Deleting container.
+[2023.01.15-00.59.31:038][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.15-00.59.31:044][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-00.59.31:113][242]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.15-00.59.31:114][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.01.15-00.59.31:116][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.01.15-00.59.31:120][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.15-00.59.31:130][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.01.15-00.59.31:186][243]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.01.15-00.59.37:386][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.15-00.59.37:468][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Player_Glasses" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Character/Player_Glasses.uasset" SILENT=true
+[2023.01.15-00.59.37:493][642]LogSavePackage: Moving output files for package: /Game/Character/Player_Glasses
+[2023.01.15-00.59.37:493][642]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/Player_GlassesC52CFCC24616DD753CB109A6BA085B91.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Character/Player_Glasses.uasset'
+[2023.01.15-00.59.37:500][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 8.06 sec)
+[2023.01.15-00.59.37:506][642]AssetCheck: New page: Asset Save: Player_Glasses
+[2023.01.15-00.59.37:506][642]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Character/Player_Glasses.Player_Glasses
+[2023.01.15-00.59.40:607][851]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.15-00.59.40:617][851]LogContentBundle: [Container: InitMap] Generating Streaming for 0 Content Bundles.
+[2023.01.15-00.59.40:620][851]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.15-00.59.40:620][851]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.15-00.59.40:620][851]LogWorldPartition: Display: GetPartitionedActors took 20 us (total: 413 us)
+[2023.01.15-00.59.40:770][851]LogWorldPartition: Display: GenerateStreaming took 150 ms (total: 2.34 sec)
+[2023.01.15-00.59.40:771][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.15-00.59.40:771][851]PIE: New page: PIE session: InitMap (14/01/2023, 2:59:40 p. m.)
+[2023.01.15-00.59.40:771][851]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_InitMap
+[2023.01.15-00.59.40:791][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020041s)
+[2023.01.15-00.59.40:791][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InitMap.InitMap to /Game/UEDPIE_0_InitMap.InitMap (0.020076s)
+[2023.01.15-00.59.40:792][851]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.15-00.59.40:792][851]LogAIModule: Creating AISystem for world InitMap
+[2023.01.15-00.59.40:792][851]LogWorldPartition: ULevel::OnLevelLoaded(InitMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.01.15-00.59.40:792][851]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.15-00.59.40:792][851]LogWorldPartition: UWorldPartition::Initialize(Asset=InitMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.01.15-00.59.40:796][851]LogContentBundle: [Container: InitMap] Creating new contrainer.
+[2023.01.15-00.59.40:796][851]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 169 ms)
+[2023.01.15-00.59.40:796][851]LogPlayLevel: PIE: World Init took: (0.004631s)
+[2023.01.15-00.59.40:849][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.01.15-00.59.40:850][851]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.01.15-00.59.40:850][851]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.15-00.59.40:850][851]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.15-00.59.40:850][851]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.15-00.59.40:850][851]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.15-00.59.40:850][851]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.01.15-00.59.40:850][851]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.15-00.59.40:850][851]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.01.15-00.59.40:850][851]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.15-00.59.40:851][851]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.15-00.59.40:851][851]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.15-00.59.40:851][851]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.15-00.59.40:853][851]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.15-00.59.40:879][851]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2023.01.15-00.59.40:879][851]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.15-00.59.40:879][851]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.15-00.59.40:879][851]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.15-00.59.40:884][851]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.01.15-00.59.40:885][851]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.01.15-00.59.40:886][851]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.01.15-00.59.40:886][851]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.01.15-00.59.40:886][851]LogInit: FAudioDevice initialized.
+[2023.01.15-00.59.40:886][851]LogAudio: Display: Audio Device (ID: 20) registered with world 'InitMap'.
+[2023.01.15-00.59.40:889][851]LogLoad: Game class is 'GameModePlayer_C'
+[2023.01.15-00.59.40:890][851]LogWorld: Bringing World /Game/UEDPIE_0_InitMap.InitMap up for play (max tick rate 0) at 2023.01.14-19.59.40
+[2023.01.15-00.59.40:890][851]LogWorld: Bringing up level for play took: 0.000803
+[2023.01.15-00.59.40:892][851]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2023.01.15-00.59.40:894][851]LogWorldPartition: New Streaming Source: PlayerGlassesController_C_0 -> Position: X=8875.425 Y=5333.816 Z=275.028
+[2023.01.15-00.59.40:894][851]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2023.01.15-00.59.40:894][851]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=8875.425 Y=5333.816 Z=275.028,P=-0.000000 Y=-175.850469 R=0.000000
+[2023.01.15-00.59.40:910][851]LogActor: Warning: Actor folder B7E9BD5B45A652654791988DEF54CCEB for actor PointLight_UAID_601895650CC6E74F01_1790524248 encountered when not using actor folders
+[2023.01.15-00.59.40:966][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/F/44/ESQWKOSU6UW7LEIDMGW4CW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:966][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/E/ZK/WD107PAYC3VC2WHSAZMDZ1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:966][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/E/YT/98P2GOHZ19R2XA90VH404C.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:966][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/E/VU/AIZFQLE0XR35B1WCT4YCO1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:966][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/E/5R/VFKFCVUFIV4M02K6BG38JO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:966][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/E/4X/R6209XY2V92H3N315TE4SC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:966][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/D/OJ/0I558M9F9JIVU5YB0FNJMR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:966][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/D/BR/1SHLK3LV3AKZC42WXW6ST8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:966][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/D/28/QT3KGA0IVAESV7N5JSO9AC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:966][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/C/YI/564WQ24JPILW9XSQJ9YB06.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:966][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/C/RZ/DRTWFX3M0JWIUHUYSF2D66.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:966][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/C/Q4/X0DX5AK0O88IUG5XGD5P2V.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:966][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/C/IX/JMPK55XWP8RIBY0XFG76A2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:966][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/B/KW/1Q9PM5LPNBPT3LOZXD1WBG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:966][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/A/JG/KHTERVIMV3QD9L7VVF99Y5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:966][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/A/0W/A1MO425QPU4SS4IUBJSCKV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:966][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/9/W4/LCTCXHY5B9NAUZF5ZXV5XN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:966][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/9/40/0I4XT0M3WYML64MFK8RY1R.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/WQ/52I84KPR3EIKA0SMGFO2DR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/RG/AINZ13I1BQVEEY4WKIXCU8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/QP/AWU6G09NDWWS6STRWV6AYT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/JT/ZE1KBK5RL5XBSGH57V685R.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/B6/LXXJHD12DG16684N0VO1OE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/0M/YM21N9HUOYWF364VHT54G4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/0K/VHFGFBJP5W630MF2U48RYH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/WC/4ZGA7K5DQMAQA7X0JBZ3XZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/Q5/VPWARTRCSKYZK0O5H6ID44.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/Q3/QI62WL8CFMEHHQJOKYVTRZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/PD/0APA7XIZ6LGZVGYIXCBBVN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/JV/QMB50F1Y8W6SAVKDHXCHZT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/IR/64OQ1PY69D5RHQUL0QDTWN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/EN/OCMQ7L1VC7LHYDBOVJ8G80.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/YL/QO5N7G8KZLN9AIJLDGY32C.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/S3/T5IBH6EWU3TH4MRZXWYFKD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/N1/8RKG6CQCHV7TRIYR1LCHHG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/IU/6YLCD7WV8TXYWRL74XJMTF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/CV/19GIOZMGH14ERTKQCSG8R3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/C8/MXKIFBXOKUBG322T1L5MGR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/4Y/CWSLKPJLFJAKSQI1IXJP69.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/TA/3K9H746VQN746BA38GDUVR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/RF/RI7DZYVHD84XOSDFXB26RR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/FJ/WBZWC94C379H1OSMLVF8F9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/DK/22X0XITJAJQ58RKIZ6S30K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/8C/0KOPKH059PY64M4INC9COZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/7B/CK5IS1JF8Q5AB88SD8GCHB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/4/ZF/3O5UU8Z6Q5WD35LN1EI1QK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/4/BL/KXNFKPWEPA3SOCSZSLNYYG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/4/3H/6W0ACO7RXIKCWTYZGRCZ95.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/3/VW/TY1QQ3HS2BAJI07D4EVEPY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/3/N9/RNGIFQTITTEAMA2TWRVNHR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/3/6R/V8AL0DFZMRX3F8C86W4PS5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/2/Q2/NENGY2MI4642AG9V34HAUT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/2/LH/AZ0VXO5EC2H9MJS2ASDEQ1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/2/J4/ZOYS07AINCQMK5ZJE7HAFB.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/2/BE/1XKD2AYW6IH5N37EKW57M8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/2/3J/T855RM6UNDTTKLNWVRSXU3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/1/J4/394F8N44PTNRA4G0YBL0IF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/1/BG/AZROLS9I6B32VYXZNZ5MY8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/1/5Q/SPAXVK9S1FULZ8TB2PZQVS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/1/50/DR1ICXHZ6VCAFKD8IJX1T5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/1/3F/IO39P962J6RDTNF9DT299V.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/0/QY/WZ38XQUCYMGKWLANFRGAGY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/0/FT/YZUSWAZ02W61DH3QLSAM4Z.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.40:967][851]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/0/34/XLN0GWMFBSE03A1ZOLTBU1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.41:036][851]LogStreaming: Display: FlushAsyncLoading(-1): 1 QueuedPackages, 0 AsyncPackages
+[2023.01.15-00.59.41:038][851]PIE: Server logged in
+[2023.01.15-00.59.41:040][851]PIE: Play in editor total start time 0,424 seconds.
+[2023.01.15-00.59.46:391][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.15-00.59.46:391][339]LogWorld: BeginTearingDown for /Game/UEDPIE_0_InitMap
+[2023.01.15-00.59.46:393][339]LogWorld: UWorld::CleanupWorld for InitMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.15-00.59.46:393][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-00.59.46:393][339]LogContentBundle: [Container: InitMap] Deleting container.
+[2023.01.15-00.59.46:396][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.15-00.59.46:402][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-00.59.46:457][339]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.15-00.59.46:458][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.01.15-00.59.46:461][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.01.15-00.59.46:466][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.15-00.59.46:472][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.01.15-00.59.46:523][340]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.01.15-00.59.53:981][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.15-00.59.54:056][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Player_Glasses" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Character/Player_Glasses.uasset" SILENT=true
+[2023.01.15-00.59.54:084][810]LogSavePackage: Moving output files for package: /Game/Character/Player_Glasses
+[2023.01.15-00.59.54:085][810]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/Player_Glasses9DB8DCBA452913FA9B6482A94273B9A1.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Character/Player_Glasses.uasset'
+[2023.01.15-00.59.54:092][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 8.17 sec)
+[2023.01.15-00.59.54:097][810]AssetCheck: New page: Asset Save: Player_Glasses
+[2023.01.15-00.59.54:097][810]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Character/Player_Glasses.Player_Glasses
+[2023.01.15-00.59.54:339][826]BlueprintLog: New page: Compile Player_Glasses
+[2023.01.15-00.59.54:487][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.01.15-00.59.56:442][963]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.15-00.59.56:452][963]LogContentBundle: [Container: InitMap] Generating Streaming for 0 Content Bundles.
+[2023.01.15-00.59.56:455][963]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.15-00.59.56:455][963]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.15-00.59.56:455][963]LogWorldPartition: Display: GetPartitionedActors took 21 us (total: 435 us)
+[2023.01.15-00.59.56:588][963]LogWorldPartition: Display: GenerateStreaming took 133 ms (total: 2.48 sec)
+[2023.01.15-00.59.56:590][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.15-00.59.56:590][963]PIE: New page: PIE session: InitMap (14/01/2023, 2:59:56 p. m.)
+[2023.01.15-00.59.56:590][963]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_InitMap
+[2023.01.15-00.59.56:610][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020380s)
+[2023.01.15-00.59.56:610][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InitMap.InitMap to /Game/UEDPIE_0_InitMap.InitMap (0.020413s)
+[2023.01.15-00.59.56:610][963]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.15-00.59.56:610][963]LogAIModule: Creating AISystem for world InitMap
+[2023.01.15-00.59.56:611][963]LogWorldPartition: ULevel::OnLevelLoaded(InitMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.01.15-00.59.56:611][963]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.15-00.59.56:611][963]LogWorldPartition: UWorldPartition::Initialize(Asset=InitMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.01.15-00.59.56:614][963]LogContentBundle: [Container: InitMap] Creating new contrainer.
+[2023.01.15-00.59.56:614][963]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 172 ms)
+[2023.01.15-00.59.56:614][963]LogPlayLevel: PIE: World Init took: (0.003860s)
+[2023.01.15-00.59.56:669][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.01.15-00.59.56:671][963]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.01.15-00.59.56:671][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.15-00.59.56:671][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.15-00.59.56:671][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.15-00.59.56:671][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.15-00.59.56:671][963]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.01.15-00.59.56:671][963]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.15-00.59.56:671][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.01.15-00.59.56:671][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.15-00.59.56:671][963]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.15-00.59.56:671][963]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.15-00.59.56:671][963]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.15-00.59.56:673][963]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.15-00.59.56:689][963]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2023.01.15-00.59.56:690][963]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.15-00.59.56:690][963]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.15-00.59.56:690][963]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.15-00.59.56:691][963]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.01.15-00.59.56:691][963]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.01.15-00.59.56:692][963]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.01.15-00.59.56:692][963]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.01.15-00.59.56:692][963]LogInit: FAudioDevice initialized.
+[2023.01.15-00.59.56:692][963]LogAudio: Display: Audio Device (ID: 21) registered with world 'InitMap'.
+[2023.01.15-00.59.56:695][963]LogLoad: Game class is 'GameModePlayer_C'
+[2023.01.15-00.59.56:696][963]LogWorld: Bringing World /Game/UEDPIE_0_InitMap.InitMap up for play (max tick rate 0) at 2023.01.14-19.59.56
+[2023.01.15-00.59.56:696][963]LogWorld: Bringing up level for play took: 0.000764
+[2023.01.15-00.59.56:698][963]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.01.15-00.59.56:699][963]LogWorldPartition: New Streaming Source: PlayerGlassesController_C_0 -> Position: X=7940.796 Y=5406.705 Z=273.034
+[2023.01.15-00.59.56:699][963]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2023.01.15-00.59.56:699][963]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=7940.796 Y=5406.705 Z=273.034,P=0.000000 Y=178.576346 R=-0.000000
+[2023.01.15-00.59.56:712][963]LogActor: Warning: Actor folder B7E9BD5B45A652654791988DEF54CCEB for actor PointLight_UAID_601895650CC6E74F01_1790524248 encountered when not using actor folders
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/F/44/ESQWKOSU6UW7LEIDMGW4CW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/E/ZK/WD107PAYC3VC2WHSAZMDZ1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/E/YT/98P2GOHZ19R2XA90VH404C.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/E/VU/AIZFQLE0XR35B1WCT4YCO1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/E/5R/VFKFCVUFIV4M02K6BG38JO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/E/4X/R6209XY2V92H3N315TE4SC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/D/OJ/0I558M9F9JIVU5YB0FNJMR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/D/BR/1SHLK3LV3AKZC42WXW6ST8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/D/28/QT3KGA0IVAESV7N5JSO9AC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/C/YI/564WQ24JPILW9XSQJ9YB06.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/C/RZ/DRTWFX3M0JWIUHUYSF2D66.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/C/Q4/X0DX5AK0O88IUG5XGD5P2V.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/C/IX/JMPK55XWP8RIBY0XFG76A2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/B/KW/1Q9PM5LPNBPT3LOZXD1WBG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/A/JG/KHTERVIMV3QD9L7VVF99Y5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/A/0W/A1MO425QPU4SS4IUBJSCKV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/9/W4/LCTCXHY5B9NAUZF5ZXV5XN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/9/40/0I4XT0M3WYML64MFK8RY1R.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/WQ/52I84KPR3EIKA0SMGFO2DR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/RG/AINZ13I1BQVEEY4WKIXCU8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/QP/AWU6G09NDWWS6STRWV6AYT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/JT/ZE1KBK5RL5XBSGH57V685R.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:765][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/B6/LXXJHD12DG16684N0VO1OE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/0M/YM21N9HUOYWF364VHT54G4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/0K/VHFGFBJP5W630MF2U48RYH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/WC/4ZGA7K5DQMAQA7X0JBZ3XZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/Q5/VPWARTRCSKYZK0O5H6ID44.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/Q3/QI62WL8CFMEHHQJOKYVTRZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/PD/0APA7XIZ6LGZVGYIXCBBVN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/JV/QMB50F1Y8W6SAVKDHXCHZT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/IR/64OQ1PY69D5RHQUL0QDTWN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/EN/OCMQ7L1VC7LHYDBOVJ8G80.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/YL/QO5N7G8KZLN9AIJLDGY32C.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/S3/T5IBH6EWU3TH4MRZXWYFKD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/N1/8RKG6CQCHV7TRIYR1LCHHG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/IU/6YLCD7WV8TXYWRL74XJMTF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/CV/19GIOZMGH14ERTKQCSG8R3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/C8/MXKIFBXOKUBG322T1L5MGR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/4Y/CWSLKPJLFJAKSQI1IXJP69.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/TA/3K9H746VQN746BA38GDUVR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/RF/RI7DZYVHD84XOSDFXB26RR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/FJ/WBZWC94C379H1OSMLVF8F9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/DK/22X0XITJAJQ58RKIZ6S30K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/8C/0KOPKH059PY64M4INC9COZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/7B/CK5IS1JF8Q5AB88SD8GCHB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/4/ZF/3O5UU8Z6Q5WD35LN1EI1QK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/4/BL/KXNFKPWEPA3SOCSZSLNYYG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/4/3H/6W0ACO7RXIKCWTYZGRCZ95.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/3/VW/TY1QQ3HS2BAJI07D4EVEPY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/3/N9/RNGIFQTITTEAMA2TWRVNHR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/3/6R/V8AL0DFZMRX3F8C86W4PS5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/2/Q2/NENGY2MI4642AG9V34HAUT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/2/LH/AZ0VXO5EC2H9MJS2ASDEQ1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/2/J4/ZOYS07AINCQMK5ZJE7HAFB.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/2/BE/1XKD2AYW6IH5N37EKW57M8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/2/3J/T855RM6UNDTTKLNWVRSXU3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/1/J4/394F8N44PTNRA4G0YBL0IF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/1/BG/AZROLS9I6B32VYXZNZ5MY8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/1/5Q/SPAXVK9S1FULZ8TB2PZQVS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/1/50/DR1ICXHZ6VCAFKD8IJX1T5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/1/3F/IO39P962J6RDTNF9DT299V.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/0/QY/WZ38XQUCYMGKWLANFRGAGY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/0/FT/YZUSWAZ02W61DH3QLSAM4Z.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:766][963]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/0/34/XLN0GWMFBSE03A1ZOLTBU1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-00.59.56:838][963]LogStreaming: Display: FlushAsyncLoading(-1): 1 QueuedPackages, 0 AsyncPackages
+[2023.01.15-00.59.56:840][963]PIE: Server logged in
+[2023.01.15-00.59.56:841][963]PIE: Play in editor total start time 0,391 seconds.
+[2023.01.15-01.00.01:391][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.15-01.00.01:391][394]LogWorld: BeginTearingDown for /Game/UEDPIE_0_InitMap
+[2023.01.15-01.00.01:393][394]LogWorld: UWorld::CleanupWorld for InitMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.15-01.00.01:393][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-01.00.01:393][394]LogContentBundle: [Container: InitMap] Deleting container.
+[2023.01.15-01.00.01:396][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.15-01.00.01:401][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-01.00.01:454][394]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.15-01.00.01:456][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.01.15-01.00.01:458][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.01.15-01.00.01:461][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.15-01.00.01:470][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.01.15-01.00.01:515][395]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.01.15-01.00.18:273][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.15-01.00.18:360][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Player_Glasses" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Character/Player_Glasses.uasset" SILENT=true
+[2023.01.15-01.00.18:387][430]LogSavePackage: Moving output files for package: /Game/Character/Player_Glasses
+[2023.01.15-01.00.18:387][430]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/Player_Glasses62D62674475E8DD48940F6BBEC1F7027.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Character/Player_Glasses.uasset'
+[2023.01.15-01.00.18:398][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 8.29 sec)
+[2023.01.15-01.00.18:405][430]AssetCheck: New page: Asset Save: Player_Glasses
+[2023.01.15-01.00.18:405][430]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Character/Player_Glasses.Player_Glasses
+[2023.01.15-01.00.18:629][445]BlueprintLog: New page: Compile Player_Glasses
+[2023.01.15-01.00.18:778][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.01.15-01.00.20:650][569]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.15-01.00.20:660][569]LogContentBundle: [Container: InitMap] Generating Streaming for 0 Content Bundles.
+[2023.01.15-01.00.20:663][569]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.15-01.00.20:663][569]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.15-01.00.20:663][569]LogWorldPartition: Display: GetPartitionedActors took 20 us (total: 455 us)
+[2023.01.15-01.00.20:783][569]LogWorldPartition: Display: GenerateStreaming took 119 ms (total: 2.60 sec)
+[2023.01.15-01.00.20:783][569]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.15-01.00.20:784][569]PIE: New page: PIE session: InitMap (14/01/2023, 3:00:20 p. m.)
+[2023.01.15-01.00.20:784][569]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_InitMap
+[2023.01.15-01.00.20:802][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018082s)
+[2023.01.15-01.00.20:802][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InitMap.InitMap to /Game/UEDPIE_0_InitMap.InitMap (0.018109s)
+[2023.01.15-01.00.20:802][569]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.15-01.00.20:803][569]LogAIModule: Creating AISystem for world InitMap
+[2023.01.15-01.00.20:803][569]LogWorldPartition: ULevel::OnLevelLoaded(InitMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.01.15-01.00.20:803][569]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.15-01.00.20:803][569]LogWorldPartition: UWorldPartition::Initialize(Asset=InitMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.01.15-01.00.20:806][569]LogContentBundle: [Container: InitMap] Creating new contrainer.
+[2023.01.15-01.00.20:806][569]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 175 ms)
+[2023.01.15-01.00.20:806][569]LogPlayLevel: PIE: World Init took: (0.003827s)
+[2023.01.15-01.00.20:859][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.01.15-01.00.20:860][569]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.01.15-01.00.20:860][569]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.15-01.00.20:860][569]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.15-01.00.20:860][569]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.15-01.00.20:860][569]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.15-01.00.20:860][569]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.01.15-01.00.20:860][569]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.15-01.00.20:860][569]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.01.15-01.00.20:860][569]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.15-01.00.20:861][569]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.15-01.00.20:861][569]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.15-01.00.20:861][569]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.15-01.00.20:863][569]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.15-01.00.20:879][569]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2023.01.15-01.00.20:879][569]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.15-01.00.20:879][569]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.15-01.00.20:879][569]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.15-01.00.20:880][569]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.01.15-01.00.20:880][569]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.01.15-01.00.20:881][569]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.01.15-01.00.20:881][569]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.01.15-01.00.20:881][569]LogInit: FAudioDevice initialized.
+[2023.01.15-01.00.20:881][569]LogAudio: Display: Audio Device (ID: 22) registered with world 'InitMap'.
+[2023.01.15-01.00.20:885][569]LogLoad: Game class is 'GameModePlayer_C'
+[2023.01.15-01.00.20:885][569]LogWorld: Bringing World /Game/UEDPIE_0_InitMap.InitMap up for play (max tick rate 0) at 2023.01.14-20.00.20
+[2023.01.15-01.00.20:886][569]LogWorld: Bringing up level for play took: 0.000753
+[2023.01.15-01.00.20:887][569]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2023.01.15-01.00.20:888][569]LogWorldPartition: New Streaming Source: PlayerGlassesController_C_0 -> Position: X=7536.317 Y=5330.956 Z=261.092
+[2023.01.15-01.00.20:888][569]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(2), CellsToLoad(0), CellsToUnload(0)
+[2023.01.15-01.00.20:888][569]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=7536.317 Y=5330.956 Z=261.092,P=0.000000 Y=179.825639 R=-0.000000
+[2023.01.15-01.00.20:903][569]LogActor: Warning: Actor folder B7E9BD5B45A652654791988DEF54CCEB for actor PointLight_UAID_601895650CC6E74F01_1790524248 encountered when not using actor folders
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/F/44/ESQWKOSU6UW7LEIDMGW4CW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/E/ZK/WD107PAYC3VC2WHSAZMDZ1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/E/YT/98P2GOHZ19R2XA90VH404C.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/E/VU/AIZFQLE0XR35B1WCT4YCO1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/E/5R/VFKFCVUFIV4M02K6BG38JO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/E/4X/R6209XY2V92H3N315TE4SC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/D/OJ/0I558M9F9JIVU5YB0FNJMR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/D/BR/1SHLK3LV3AKZC42WXW6ST8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/D/28/QT3KGA0IVAESV7N5JSO9AC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/C/YI/564WQ24JPILW9XSQJ9YB06.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/C/RZ/DRTWFX3M0JWIUHUYSF2D66.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/C/Q4/X0DX5AK0O88IUG5XGD5P2V.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/C/IX/JMPK55XWP8RIBY0XFG76A2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/B/KW/1Q9PM5LPNBPT3LOZXD1WBG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/A/JG/KHTERVIMV3QD9L7VVF99Y5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/A/0W/A1MO425QPU4SS4IUBJSCKV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/9/W4/LCTCXHY5B9NAUZF5ZXV5XN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/9/40/0I4XT0M3WYML64MFK8RY1R.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/WQ/52I84KPR3EIKA0SMGFO2DR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/RG/AINZ13I1BQVEEY4WKIXCU8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/QP/AWU6G09NDWWS6STRWV6AYT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/JT/ZE1KBK5RL5XBSGH57V685R.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/B6/LXXJHD12DG16684N0VO1OE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/0M/YM21N9HUOYWF364VHT54G4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/8/0K/VHFGFBJP5W630MF2U48RYH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/WC/4ZGA7K5DQMAQA7X0JBZ3XZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/Q5/VPWARTRCSKYZK0O5H6ID44.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/Q3/QI62WL8CFMEHHQJOKYVTRZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/PD/0APA7XIZ6LGZVGYIXCBBVN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/JV/QMB50F1Y8W6SAVKDHXCHZT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/IR/64OQ1PY69D5RHQUL0QDTWN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/7/EN/OCMQ7L1VC7LHYDBOVJ8G80.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/YL/QO5N7G8KZLN9AIJLDGY32C.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/S3/T5IBH6EWU3TH4MRZXWYFKD.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/N1/8RKG6CQCHV7TRIYR1LCHHG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/IU/6YLCD7WV8TXYWRL74XJMTF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/CV/19GIOZMGH14ERTKQCSG8R3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/C8/MXKIFBXOKUBG322T1L5MGR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/6/4Y/CWSLKPJLFJAKSQI1IXJP69.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/TA/3K9H746VQN746BA38GDUVR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/RF/RI7DZYVHD84XOSDFXB26RR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/FJ/WBZWC94C379H1OSMLVF8F9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/DK/22X0XITJAJQ58RKIZ6S30K.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/8C/0KOPKH059PY64M4INC9COZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/5/7B/CK5IS1JF8Q5AB88SD8GCHB.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/4/ZF/3O5UU8Z6Q5WD35LN1EI1QK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/4/BL/KXNFKPWEPA3SOCSZSLNYYG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/4/3H/6W0ACO7RXIKCWTYZGRCZ95.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/3/VW/TY1QQ3HS2BAJI07D4EVEPY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/3/N9/RNGIFQTITTEAMA2TWRVNHR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/3/6R/V8AL0DFZMRX3F8C86W4PS5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/2/Q2/NENGY2MI4642AG9V34HAUT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/2/LH/AZ0VXO5EC2H9MJS2ASDEQ1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/2/J4/ZOYS07AINCQMK5ZJE7HAFB.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/2/BE/1XKD2AYW6IH5N37EKW57M8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/2/3J/T855RM6UNDTTKLNWVRSXU3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/1/J4/394F8N44PTNRA4G0YBL0IF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/1/BG/AZROLS9I6B32VYXZNZ5MY8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/1/5Q/SPAXVK9S1FULZ8TB2PZQVS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/1/50/DR1ICXHZ6VCAFKD8IJX1T5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/1/3F/IO39P962J6RDTNF9DT299V.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/0/QY/WZ38XQUCYMGKWLANFRGAGY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/0/FT/YZUSWAZ02W61DH3QLSAM4Z.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.20:960][569]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/InitMap/0/34/XLN0GWMFBSE03A1ZOLTBU1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.01.15-01.00.21:023][569]LogStreaming: Display: FlushAsyncLoading(-1): 1 QueuedPackages, 0 AsyncPackages
+[2023.01.15-01.00.21:025][569]PIE: Server logged in
+[2023.01.15-01.00.21:026][569]PIE: Play in editor total start time 0,368 seconds.
+[2023.01.15-01.00.33:681][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.15-01.00.33:681][625]LogWorld: BeginTearingDown for /Game/UEDPIE_0_InitMap
+[2023.01.15-01.00.33:682][625]LogWorld: UWorld::CleanupWorld for InitMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.15-01.00.33:682][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-01.00.33:682][625]LogContentBundle: [Container: InitMap] Deleting container.
+[2023.01.15-01.00.33:686][625]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.15-01.00.33:691][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-01.00.33:743][625]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.15-01.00.33:746][625]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.01.15-01.00.33:748][625]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.01.15-01.00.33:753][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.15-01.00.33:759][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.01.15-01.00.33:792][626]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.01.15-01.01.50:400][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.15-01.01.50:464][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/1/1K/ZCKU1JR0J7ZVRHBPUCJRXR
+[2023.01.15-01.01.50:464][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/ZCKU1JR0J7ZVRHBPUCJRXR49533EB04E13223E228E7F99CF914891.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/1/1K/ZCKU1JR0J7ZVRHBPUCJRXR.uasset'
+[2023.01.15-01.01.50:465][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/5/9Z/84MWVU5UDVWNP9IPEAUVOM
+[2023.01.15-01.01.50:465][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/84MWVU5UDVWNP9IPEAUVOMFC2D844643B0FA80C948BB90FABD3B50.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/5/9Z/84MWVU5UDVWNP9IPEAUVOM.uasset'
+[2023.01.15-01.01.50:466][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/8/QF/9VEISU1F092RDD9UIHKMIT
+[2023.01.15-01.01.50:466][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/9VEISU1F092RDD9UIHKMIT5664EDF24403BF1FA322DABBFFD6F5C6.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/8/QF/9VEISU1F092RDD9UIHKMIT.uasset'
+[2023.01.15-01.01.50:467][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/9/NT/VMW8FTDDUOWQ9AGHU7DDSH
+[2023.01.15-01.01.50:467][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/VMW8FTDDUOWQ9AGHU7DDSHFB4E8DAF44882F6F72333A84079D8CB9.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/9/NT/VMW8FTDDUOWQ9AGHU7DDSH.uasset'
+[2023.01.15-01.01.50:468][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/A/64/HF6JCK9OIH06PNHO38FHHX
+[2023.01.15-01.01.50:468][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/HF6JCK9OIH06PNHO38FHHXF0442BAB4F4C9E41EBE8CC9405488144.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/A/64/HF6JCK9OIH06PNHO38FHHX.uasset'
+[2023.01.15-01.01.50:469][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/B/UN/MPJ3G38RVE9H4DWSW4YEY6
+[2023.01.15-01.01.50:469][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/MPJ3G38RVE9H4DWSW4YEY6D6A37DB4496C546181228CA29E5556CB.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/B/UN/MPJ3G38RVE9H4DWSW4YEY6.uasset'
+[2023.01.15-01.01.50:471][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/B/Y2/WMADW1VMD5MBTLM91OENRG
+[2023.01.15-01.01.50:471][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/WMADW1VMD5MBTLM91OENRGA8E6B9C0490F32B67F2AB8A76EC91338.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/B/Y2/WMADW1VMD5MBTLM91OENRG.uasset'
+[2023.01.15-01.01.50:472][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/C/BU/1SIVK3X6VBLQRVNWCPP8AU
+[2023.01.15-01.01.50:472][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/1SIVK3X6VBLQRVNWCPP8AU12052968411026CD61808AA1C0C523BC.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/C/BU/1SIVK3X6VBLQRVNWCPP8AU.uasset'
+[2023.01.15-01.01.50:473][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/C/UJ/HIXOOQ7VC7POYLLSENO1LY
+[2023.01.15-01.01.50:474][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/HIXOOQ7VC7POYLLSENO1LY7E45D16143D0EFB98F4C64AB8E79A5B2.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/C/UJ/HIXOOQ7VC7POYLLSENO1LY.uasset'
+[2023.01.15-01.01.50:475][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/C/XO/T1P1MHHRMQXUZ1THTD6TEL
+[2023.01.15-01.01.50:475][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/T1P1MHHRMQXUZ1THTD6TELD5CD129B482FA4B9ECC7BDACC109E5C7.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/C/XO/T1P1MHHRMQXUZ1THTD6TEL.uasset'
+[2023.01.15-01.01.50:477][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/D/7C/AAKLN3XCUV4GJ3HVJUWZ06
+[2023.01.15-01.01.50:477][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/AAKLN3XCUV4GJ3HVJUWZ066DB01B70437A3A3F68A5CFB57F5D4604.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/D/7C/AAKLN3XCUV4GJ3HVJUWZ06.uasset'
+[2023.01.15-01.01.50:478][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/D/TY/QTCSYI8WORD3NPXRRE9J2B
+[2023.01.15-01.01.50:479][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/QTCSYI8WORD3NPXRRE9J2B25949ADB48BB576D281C96BF8B0361B8.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/D/TY/QTCSYI8WORD3NPXRRE9J2B.uasset'
+[2023.01.15-01.01.50:480][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/E/6D/PUSOYUGO1V3HRJOYDV1KA1
+[2023.01.15-01.01.50:480][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/PUSOYUGO1V3HRJOYDV1KA180BB87144CA165EAF9FB45B4AFD3BF09.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/E/6D/PUSOYUGO1V3HRJOYDV1KA1.uasset'
+[2023.01.15-01.01.50:482][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/E/HS/BUR6SUAER0PI69IL7TWDP7
+[2023.01.15-01.01.50:482][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/BUR6SUAER0PI69IL7TWDP711D139DA40313E6E44861FA19A143925.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/E/HS/BUR6SUAER0PI69IL7TWDP7.uasset'
+[2023.01.15-01.01.50:484][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/0/M9/Q6SIH8GUEQTQYHX0RBBA1R
+[2023.01.15-01.01.50:484][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/Q6SIH8GUEQTQYHX0RBBA1R15604CA44848FAB1EB7317B77C517F19.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/0/M9/Q6SIH8GUEQTQYHX0RBBA1R.uasset'
+[2023.01.15-01.01.50:485][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/0/MX/7R8DUDUDPBW3XX1O7KIPZ3
+[2023.01.15-01.01.50:485][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/7R8DUDUDPBW3XX1O7KIPZ3F5DD54A8416C95A8A0BA408F532FA5B7.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/0/MX/7R8DUDUDPBW3XX1O7KIPZ3.uasset'
+[2023.01.15-01.01.50:486][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/0/NN/YN4F8WJ8F02P8NWTP3XHAS
+[2023.01.15-01.01.50:486][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/YN4F8WJ8F02P8NWTP3XHAS0D6CB9A147E82654039F84B41CE72996.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/0/NN/YN4F8WJ8F02P8NWTP3XHAS.uasset'
+[2023.01.15-01.01.50:488][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/0/OI/GKLSBY6D9T5XC6XG7A548L
+[2023.01.15-01.01.50:488][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/GKLSBY6D9T5XC6XG7A548L5D25D2914A793B216079B688B1510DE2.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/0/OI/GKLSBY6D9T5XC6XG7A548L.uasset'
+[2023.01.15-01.01.50:488][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/0/PB/LISPM2M8BULUWC7BZS5KA5
+[2023.01.15-01.01.50:489][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/LISPM2M8BULUWC7BZS5KA58FE51FE44D8450590ED06FBE30EC8A75.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/0/PB/LISPM2M8BULUWC7BZS5KA5.uasset'
+[2023.01.15-01.01.50:490][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/0/RZ/F150ND2GZXSD4RODV2RB8K
+[2023.01.15-01.01.50:490][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/F150ND2GZXSD4RODV2RB8KEBEE58B142C9D94EEA50BCA401753AEE.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/0/RZ/F150ND2GZXSD4RODV2RB8K.uasset'
+[2023.01.15-01.01.50:492][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/0/Y6/9TWPQT0OPXN2NWT4MRP6LZ
+[2023.01.15-01.01.50:492][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/9TWPQT0OPXN2NWT4MRP6LZ7AAFFF8D4EA8808CEDDEEEBC3E280A3C.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/0/Y6/9TWPQT0OPXN2NWT4MRP6LZ.uasset'
+[2023.01.15-01.01.50:493][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/1/2L/YHC616JYMO1NGGGBHIUMVI
+[2023.01.15-01.01.50:493][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/YHC616JYMO1NGGGBHIUMVI57715C9B42910DE4AE41A786093A8217.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/1/2L/YHC616JYMO1NGGGBHIUMVI.uasset'
+[2023.01.15-01.01.50:495][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/1/EA/51GW58A0W89LOFF0T318H4
+[2023.01.15-01.01.50:495][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/51GW58A0W89LOFF0T318H4EAC2104C4550D7E6E39C09978E1626B2.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/1/EA/51GW58A0W89LOFF0T318H4.uasset'
+[2023.01.15-01.01.50:496][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/1/L9/C8OFRE371V0NZ2QNXFMNHM
+[2023.01.15-01.01.50:496][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/C8OFRE371V0NZ2QNXFMNHM8C33EADA4490820F54D91A94E15C2186.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/1/L9/C8OFRE371V0NZ2QNXFMNHM.uasset'
+[2023.01.15-01.01.50:498][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/3/1T/MQ5HKV4HK7ZLHGBY6HW9AY
+[2023.01.15-01.01.50:498][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/MQ5HKV4HK7ZLHGBY6HW9AYAB7B6547446FF1AFED0DB192745BA04F.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/3/1T/MQ5HKV4HK7ZLHGBY6HW9AY.uasset'
+[2023.01.15-01.01.50:499][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/3/P3/8FJVYOWTLKWTEELHP751B2
+[2023.01.15-01.01.50:499][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/8FJVYOWTLKWTEELHP751B2745E1B93494ABC540306DE89FB343F68.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/3/P3/8FJVYOWTLKWTEELHP751B2.uasset'
+[2023.01.15-01.01.50:502][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/3/T7/IQQAZO8B88ZTK583305NLF
+[2023.01.15-01.01.50:502][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/IQQAZO8B88ZTK583305NLFDA59A53D4C585619432B609AEF0964FB.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/3/T7/IQQAZO8B88ZTK583305NLF.uasset'
+[2023.01.15-01.01.50:502][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/4/66/G7ALKWYQ8YNOCEEYQ5CZBM
+[2023.01.15-01.01.50:503][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/G7ALKWYQ8YNOCEEYQ5CZBMC9A4D5DA466D17F02CE0D2A033E0E2D6.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/4/66/G7ALKWYQ8YNOCEEYQ5CZBM.uasset'
+[2023.01.15-01.01.50:504][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/4/CE/SI7RJJP9HP30L0AQ56HH2Z
+[2023.01.15-01.01.50:504][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/SI7RJJP9HP30L0AQ56HH2Z1F627BBB42F7401733F05689D1257B90.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/4/CE/SI7RJJP9HP30L0AQ56HH2Z.uasset'
+[2023.01.15-01.01.50:505][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/5/0B/4T1LDQA3XNYO9OEHO1O3AJ
+[2023.01.15-01.01.50:505][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/4T1LDQA3XNYO9OEHO1O3AJFADC4ACA4967C0844F2F73BC2A87AE15.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/5/0B/4T1LDQA3XNYO9OEHO1O3AJ.uasset'
+[2023.01.15-01.01.50:507][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/5/D1/1LLOP8HSM47WU0VMUK4VZR
+[2023.01.15-01.01.50:507][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/1LLOP8HSM47WU0VMUK4VZRFCD8A53741170212F999FAA606155F6D.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/5/D1/1LLOP8HSM47WU0VMUK4VZR.uasset'
+[2023.01.15-01.01.50:509][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/6/ZN/XK1U1COXI56FMX6ZOOPJCJ
+[2023.01.15-01.01.50:509][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/XK1U1COXI56FMX6ZOOPJCJF06FDAE445F5FE335DF2658ACF6EFF57.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/6/ZN/XK1U1COXI56FMX6ZOOPJCJ.uasset'
+[2023.01.15-01.01.50:511][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/7/GK/EZMZBTBCJBY1ZLG0HIUVTJ
+[2023.01.15-01.01.50:511][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/EZMZBTBCJBY1ZLG0HIUVTJ66DBFB5F4A22C4C142C6EC96A56C26AE.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/7/GK/EZMZBTBCJBY1ZLG0HIUVTJ.uasset'
+[2023.01.15-01.01.50:513][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/7/XY/35CYMW0O48OVM9Y1EYV6SA
+[2023.01.15-01.01.50:513][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/35CYMW0O48OVM9Y1EYV6SA2914F457430AB14EADEB2FB65D1FAB03.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/7/XY/35CYMW0O48OVM9Y1EYV6SA.uasset'
+[2023.01.15-01.01.50:514][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/8/62/PS1RTDKJH1UGSZH4YYD2BH
+[2023.01.15-01.01.50:514][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/PS1RTDKJH1UGSZH4YYD2BH0304203C4FB6ED6EAEF32FA6088EC7DD.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/8/62/PS1RTDKJH1UGSZH4YYD2BH.uasset'
+[2023.01.15-01.01.50:516][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/8/7J/8EP4VPS32H99283LMKTFCR
+[2023.01.15-01.01.50:516][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/8EP4VPS32H99283LMKTFCRBA9F11614CA728916DB25198630E0EFB.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/8/7J/8EP4VPS32H99283LMKTFCR.uasset'
+[2023.01.15-01.01.50:517][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/9/6X/HFLQMXOYTR4O38MGEVQLT7
+[2023.01.15-01.01.50:517][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/HFLQMXOYTR4O38MGEVQLT7366C57024734661D6EA9BC8B5580C09E.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/9/6X/HFLQMXOYTR4O38MGEVQLT7.uasset'
+[2023.01.15-01.01.50:518][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/9/AS/8YZF7RVCIVIOLDA37F8M3M
+[2023.01.15-01.01.50:518][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/8YZF7RVCIVIOLDA37F8M3MBD0EFDFE43545E99473DFB8127DDED9B.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/9/AS/8YZF7RVCIVIOLDA37F8M3M.uasset'
+[2023.01.15-01.01.50:520][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/9/HC/TLUV1P7C1MO8STFN05ZHKF
+[2023.01.15-01.01.50:520][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/TLUV1P7C1MO8STFN05ZHKFE0E334234515F6859A4C82AA4A9B9C37.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/9/HC/TLUV1P7C1MO8STFN05ZHKF.uasset'
+[2023.01.15-01.01.50:521][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/9/JU/TL1MJTR9KSHTSNLMAGS3UP
+[2023.01.15-01.01.50:521][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/TL1MJTR9KSHTSNLMAGS3UPEB2CA4FD4A5364CA8C4A1982E37BB0A5.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/9/JU/TL1MJTR9KSHTSNLMAGS3UP.uasset'
+[2023.01.15-01.01.50:523][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/9/RH/ZXOB1HFBIO5ORS1IP46HOM
+[2023.01.15-01.01.50:523][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/ZXOB1HFBIO5ORS1IP46HOM2A5E7B4947399D98750B73AC37A11BF7.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/9/RH/ZXOB1HFBIO5ORS1IP46HOM.uasset'
+[2023.01.15-01.01.50:524][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/A/0E/D9PJSUKX0ISW33DUTQNUPN
+[2023.01.15-01.01.50:524][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/D9PJSUKX0ISW33DUTQNUPN80688A2E4B54FD463C15FD97BDF3F1A6.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/A/0E/D9PJSUKX0ISW33DUTQNUPN.uasset'
+[2023.01.15-01.01.50:525][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/A/LH/C1FWGKXJ63QTNC6T5BZF75
+[2023.01.15-01.01.50:526][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/C1FWGKXJ63QTNC6T5BZF755D4576B54A52044CD69E3A8A4F1A33A3.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/A/LH/C1FWGKXJ63QTNC6T5BZF75.uasset'
+[2023.01.15-01.01.50:527][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/B/3A/RMNKDGKPM0A9AOZXISP1F1
+[2023.01.15-01.01.50:527][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/RMNKDGKPM0A9AOZXISP1F1D0E82F7645119C377695DEB647842583.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/B/3A/RMNKDGKPM0A9AOZXISP1F1.uasset'
+[2023.01.15-01.01.50:529][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/C/4Q/9AKODQO0AH3NTGR0G1JSRD
+[2023.01.15-01.01.50:529][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/9AKODQO0AH3NTGR0G1JSRDF3E393A640096ED5990079959A36C8EB.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/C/4Q/9AKODQO0AH3NTGR0G1JSRD.uasset'
+[2023.01.15-01.01.50:530][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/C/91/5EVAX67WBD31T3S4M9X162
+[2023.01.15-01.01.50:530][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/5EVAX67WBD31T3S4M9X162E9B74FB34EE0465539D524AA5AAD2698.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/C/91/5EVAX67WBD31T3S4M9X162.uasset'
+[2023.01.15-01.01.50:531][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/C/F0/B67798UZMV1LG68JM9HQP8
+[2023.01.15-01.01.50:531][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/B67798UZMV1LG68JM9HQP8A077B21140867AAAB412AFABFEF8CBA5.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/C/F0/B67798UZMV1LG68JM9HQP8.uasset'
+[2023.01.15-01.01.50:533][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/C/M0/PRYBMILHGMYA8R5ZECRU26
+[2023.01.15-01.01.50:533][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/PRYBMILHGMYA8R5ZECRU266E6FDDE94E31FC2B0CDE48812826BEE0.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/C/M0/PRYBMILHGMYA8R5ZECRU26.uasset'
+[2023.01.15-01.01.50:534][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/C/MB/NCXTS74M2W1K9GF8IEYL2T
+[2023.01.15-01.01.50:534][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/NCXTS74M2W1K9GF8IEYL2T65F6B498414D82BE65AB0AAD1B9FB477.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/C/MB/NCXTS74M2W1K9GF8IEYL2T.uasset'
+[2023.01.15-01.01.50:535][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/D/4L/1ROWSL2Q4DSYMTXKFV8R4K
+[2023.01.15-01.01.50:536][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/1ROWSL2Q4DSYMTXKFV8R4K954D44A747A54BA52CA5B686499E6B16.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/D/4L/1ROWSL2Q4DSYMTXKFV8R4K.uasset'
+[2023.01.15-01.01.50:537][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/D/FK/6N0E0Q1FNR4I2QN0L4OL8O
+[2023.01.15-01.01.50:537][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/6N0E0Q1FNR4I2QN0L4OL8O7443231540B398583A7A09813AD22BF0.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/D/FK/6N0E0Q1FNR4I2QN0L4OL8O.uasset'
+[2023.01.15-01.01.50:539][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/E/C3/NB1IMVFFYFK8AK2T9OCB4C
+[2023.01.15-01.01.50:539][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/NB1IMVFFYFK8AK2T9OCB4C30D4962949D0C1F822EF8883F7791210.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/E/C3/NB1IMVFFYFK8AK2T9OCB4C.uasset'
+[2023.01.15-01.01.50:541][751]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/InitMap/A/2Y/D1K7IFJ1NCZTTAPP6MVRPV
+[2023.01.15-01.01.50:541][751]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/D1K7IFJ1NCZTTAPP6MVRPVA81213ED42F0B01D211BAE9B04509C67.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/__ExternalActors__/InitMap/A/2Y/D1K7IFJ1NCZTTAPP6MVRPV.uasset'
+[2023.01.15-01.01.50:548][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 8.44 sec)
+[2023.01.15-01.01.50:559][751]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1928025568
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/TorrentShooter.TorrentShooter_C /Game/InitMap.InitMap:PersistentLevel.TorrentShooter_C_UAID_581122EA5F42F65B01_2132570594
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1941394570
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1954364572
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1957159573
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1871456554
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/TorrentShooter.TorrentShooter_C /Game/InitMap.InitMap:PersistentLevel.TorrentShooter_C_UAID_581122EA5F42F65B01_2137871596
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1889490560
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1863928552
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/TorrentShooter.TorrentShooter_C /Game/InitMap.InitMap:PersistentLevel.TorrentShooter_C_UAID_581122EA5F42F65B01_2096474591
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/TorrentShooter.TorrentShooter_C /Game/InitMap.InitMap:PersistentLevel.TorrentShooter_C_UAID_581122EA5F42F65B01_2121356593
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1971938578
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/TorrentShooter.TorrentShooter_C /Game/InitMap.InitMap:PersistentLevel.TorrentShooter_C_UAID_581122EA5F42F65B01_2135318595
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1884086558
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1892897561
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1911740563
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/TorrentShooter.TorrentShooter_C /Game/InitMap.InitMap:PersistentLevel.TorrentShooter_C_UAID_581122EA5F42F65B01_2140291597
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1976533580
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1877507556
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1868773553
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1964260575
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1916942565
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1914284564
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_2009871581
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_2030255588
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_2015423582
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/TorrentShooter.TorrentShooter_C /Game/InitMap.InitMap:PersistentLevel.TorrentShooter_C_UAID_581122EA5F42E95B01_2015044268
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_2020502584
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F45B01_1119320209
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F45B01_1115422208
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F45B01_1122739210
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_2023197585
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_2025749586
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_2017208583
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_2031601589
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_2027809587
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F35B01_2059773031
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1874707555
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1974099579
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1886631559
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1969679577
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1908963562
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1938157569
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/TorrentShooter.TorrentShooter_C /Game/InitMap.InitMap:PersistentLevel.TorrentShooter_C_UAID_581122EA5F42F65B01_2115410592
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1959727574
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1951223571
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1854149551
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1966998576
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1880184557
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1922690567
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Coin.Coin_C /Game/InitMap.InitMap:PersistentLevel.Coin_C_UAID_581122EA5F42F65B01_1919373566
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/TorrentShooter.TorrentShooter_C /Game/InitMap.InitMap:PersistentLevel.TorrentShooter_C_UAID_581122EA5F42F65B01_2142706598
+[2023.01.15-01.01.50:559][751]LogContentValidation: Display: Validating /Game/Blueprints/Actor_Blueprint.Actor_Blueprint_C /Game/InitMap.InitMap:PersistentLevel.Actor_Blueprint_C_UAID_581122EA5F42D65C01_1270589978
+[2023.01.15-01.02.29:453][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.01.15-01.02.31:153][758]LogSlate: Window 'Save Content' being destroyed
+[2023.01.15-01.02.31:162][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.15-01.02.31:256][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Another_Winter" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/Another_Winter.uasset" SILENT=true
+[2023.01.15-01.02.31:335][758]LogSavePackage: Moving output files for package: /Game/Audio/Another_Winter
+[2023.01.15-01.02.31:335][758]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/Another_Winter76C9008547D59FFC9B01C4B53AECF1C6.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/Another_Winter.uasset'
+[2023.01.15-01.02.31:339][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/FX_1__accept_" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_1__accept_.uasset" SILENT=true
+[2023.01.15-01.02.31:346][758]LogSavePackage: Moving output files for package: /Game/Audio/FX_1__accept_
+[2023.01.15-01.02.31:346][758]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/FX_1__accept_B4451DB14D7ECDF47CFD508FAE9E1737.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_1__accept_.uasset'
+[2023.01.15-01.02.31:349][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/FX_1_v2__accept_" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_1_v2__accept_.uasset" SILENT=true
+[2023.01.15-01.02.31:356][758]LogSavePackage: Moving output files for package: /Game/Audio/FX_1_v2__accept_
+[2023.01.15-01.02.31:356][758]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/FX_1_v2__accept_78A64C544C5458CB26EE67A39C0542B6.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_1_v2__accept_.uasset'
+[2023.01.15-01.02.31:359][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/FX_2__hover__accept_" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_2__hover__accept_.uasset" SILENT=true
+[2023.01.15-01.02.31:365][758]LogSavePackage: Moving output files for package: /Game/Audio/FX_2__hover__accept_
+[2023.01.15-01.02.31:365][758]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/FX_2__hover__accept_EEF24D0149E8B3CBAFE2698624BFA987.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_2__hover__accept_.uasset'
+[2023.01.15-01.02.31:368][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/FX_3__accept_" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_3__accept_.uasset" SILENT=true
+[2023.01.15-01.02.31:374][758]LogSavePackage: Moving output files for package: /Game/Audio/FX_3__accept_
+[2023.01.15-01.02.31:374][758]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/FX_3__accept_3EAF8B814BF58EFF918D0B9C919463F2.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_3__accept_.uasset'
+[2023.01.15-01.02.31:377][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/FX_4__cancel_" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_4__cancel_.uasset" SILENT=true
+[2023.01.15-01.02.31:383][758]LogSavePackage: Moving output files for package: /Game/Audio/FX_4__cancel_
+[2023.01.15-01.02.31:383][758]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/FX_4__cancel_BF0A7935406A7387F901129BAF66D770.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_4__cancel_.uasset'
+[2023.01.15-01.02.31:386][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/FX_5__chimes_" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_5__chimes_.uasset" SILENT=true
+[2023.01.15-01.02.31:393][758]LogSavePackage: Moving output files for package: /Game/Audio/FX_5__chimes_
+[2023.01.15-01.02.31:393][758]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/FX_5__chimes_741A801B4019804EED8440B4AD32F4B2.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_5__chimes_.uasset'
+[2023.01.15-01.02.31:395][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/FX_6__hover__accept_" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_6__hover__accept_.uasset" SILENT=true
+[2023.01.15-01.02.31:401][758]LogSavePackage: Moving output files for package: /Game/Audio/FX_6__hover__accept_
+[2023.01.15-01.02.31:401][758]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/FX_6__hover__accept_B16980BB4DF102C8D7D140A9F51A8780.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_6__hover__accept_.uasset'
+[2023.01.15-01.02.31:404][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/FX_7__ambient_" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_7__ambient_.uasset" SILENT=true
+[2023.01.15-01.02.31:414][758]LogSavePackage: Moving output files for package: /Game/Audio/FX_7__ambient_
+[2023.01.15-01.02.31:414][758]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/FX_7__ambient_660187944329AF0F023E279FEB3B2CD8.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_7__ambient_.uasset'
+[2023.01.15-01.02.31:418][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/FX_a10__accept_" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_a10__accept_.uasset" SILENT=true
+[2023.01.15-01.02.31:423][758]LogSavePackage: Moving output files for package: /Game/Audio/FX_a10__accept_
+[2023.01.15-01.02.31:423][758]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/FX_a10__accept_E941D092498CFE1C263FA8B8617AE946.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_a10__accept_.uasset'
+[2023.01.15-01.02.31:427][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/FX_a8__hover_" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_a8__hover_.uasset" SILENT=true
+[2023.01.15-01.02.31:434][758]LogSavePackage: Moving output files for package: /Game/Audio/FX_a8__hover_
+[2023.01.15-01.02.31:434][758]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/FX_a8__hover_50F5617C4AC6BC1EF1811FA22B7F9962.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_a8__hover_.uasset'
+[2023.01.15-01.02.31:437][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/FX_a9__cancel_" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_a9__cancel_.uasset" SILENT=true
+[2023.01.15-01.02.31:447][758]LogSavePackage: Moving output files for package: /Game/Audio/FX_a9__cancel_
+[2023.01.15-01.02.31:447][758]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/FX_a9__cancel_865B9BD24739000C1485EB9B4A5BAC20.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Audio/FX_a9__cancel_.uasset'
+[2023.01.15-01.02.31:455][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 293 ms (total: 8.73 sec)
+[2023.01.15-01.02.31:547][758]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/MainMenu.MainMenu
+[2023.01.15-01.02.31:547][758]Cmd: MAP LOAD FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Scenes/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.01.15-01.02.31:547][758]LightingResults: New page: Lighting Build
+[2023.01.15-01.02.31:547][758]LoadErrors: New page: Loading map: MainMenu.umap
+[2023.01.15-01.02.31:580][758]LogWorld: UWorld::CleanupWorld for InitMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.15-01.02.31:581][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-01.02.31:585][758]LogContentBundle: [Container: InitMap] Deleting container.
+[2023.01.15-01.02.31:585][758]MapCheck: New page: Map Check
+[2023.01.15-01.02.31:585][758]LightingResults: New page: Lighting Build
+[2023.01.15-01.02.31:628][758]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.15-01.02.31:633][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.01.15-01.02.31:636][758]LogShaderCompilers: Display: ================================================
+[2023.01.15-01.02.31:636][758]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display: Total job queries 718, among them cache hits 229 (31.89%)
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display: Tracking 489 distinct input hashes that result in 240 distinct outputs (49.08%)
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display: RAM used: 3.55 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.22%
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display: Shaders Compiled: 66
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display: Jobs assigned 66, completed 66 (100.00%)
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display: Average time worker was idle: 245.72 s
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display: Time job spent in pending queue: average 0.21 s, longest 0.98 s
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display: Job execution time: average 0.75 s, max 1.24 s
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display: Job life time (pending + execution): average 0.96 s, max 1.50
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.56 s
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display: Jobs were issued in 66 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display: Average processing rate: 6.25 jobs/sec
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display: Total thread time: 38.06 s
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display: Total thread preprocess time: 2.60 s
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display: Percentage time preprocessing: 6.83%
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display: Effective parallelization: 3.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    3 times, average 0.73 sec, max 0.76 sec, min 0.66 sec)
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    3 times, average 0.72 sec, max 0.74 sec, min 0.71 sec)
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    3 times, average 0.72 sec, max 0.74 sec, min 0.68 sec)
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 0.70 sec, max 0.73 sec, min 0.66 sec)
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 0.70 sec, max 0.73 sec, min 0.63 sec)
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.03% of total time (compiled    8 times, average 0.67 sec, max 0.81 sec, min 0.52 sec)
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.43% of total time (compiled    8 times, average 0.64 sec, max 0.85 sec, min 0.48 sec)
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.03% of total time (compiled    6 times, average 0.51 sec, max 0.56 sec, min 0.44 sec)
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 5.72% of total time (compiled    3 times, average 0.73 sec, max 0.76 sec, min 0.66 sec)
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.71% of total time (compiled    3 times, average 0.72 sec, max 0.74 sec, min 0.71 sec)
+[2023.01.15-01.02.31:637][758]LogShaderCompilers: Display: ================================================
+[2023.01.15-01.02.31:639][758]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.01.15-01.02.31:639][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-01.02.31:692][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.01.15-01.02.31:741][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.01.15-01.02.31:757][758]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.01.15-01.02.31:757][758]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.15-01.02.31:757][758]LogAIModule: Creating AISystem for world MainMenu
+[2023.01.15-01.02.31:798][758]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.15-01.02.31:852][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.01.15-01.02.31:860][758]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.15-01.02.31:861][758]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,071ms to complete.
+[2023.01.15-01.02.31:861][758]LogFileHelpers: Loading map 'MainMenu' took 0.314
+[2023.01.15-01.02.31:887][758]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.15-01.02.31:887][758]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Another_Winter.Another_Winter
+[2023.01.15-01.02.31:887][758]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/FX_3__accept_.FX_3__accept_
+[2023.01.15-01.02.31:887][758]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/FX_2__hover__accept_.FX_2__hover__accept_
+[2023.01.15-01.02.31:887][758]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/FX_1_v2__accept_.FX_1_v2__accept_
+[2023.01.15-01.02.31:887][758]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/FX_a10__accept_.FX_a10__accept_
+[2023.01.15-01.02.31:887][758]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/FX_a9__cancel_.FX_a9__cancel_
+[2023.01.15-01.02.31:887][758]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/FX_a8__hover_.FX_a8__hover_
+[2023.01.15-01.02.31:887][758]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/FX_7__ambient_.FX_7__ambient_
+[2023.01.15-01.02.31:887][758]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/FX_1__accept_.FX_1__accept_
+[2023.01.15-01.02.31:887][758]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/FX_6__hover__accept_.FX_6__hover__accept_
+[2023.01.15-01.02.31:887][758]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/FX_5__chimes_.FX_5__chimes_
+[2023.01.15-01.02.31:887][758]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/FX_4__cancel_.FX_4__cancel_
+[2023.01.15-01.02.33:655][917]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.15-01.02.33:661][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.15-01.02.33:661][917]PIE: New page: PIE session: MainMenu (14/01/2023, 3:02:33 p. m.)
+[2023.01.15-01.02.33:661][917]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2023.01.15-01.02.33:667][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006191s)
+[2023.01.15-01.02.33:667][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.006231s)
+[2023.01.15-01.02.33:667][917]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.15-01.02.33:667][917]LogAIModule: Creating AISystem for world MainMenu
+[2023.01.15-01.02.33:667][917]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2023.01.15-01.02.33:720][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.01.15-01.02.33:721][917]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.01.15-01.02.33:721][917]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.15-01.02.33:721][917]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.15-01.02.33:721][917]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.15-01.02.33:721][917]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.15-01.02.33:721][917]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.01.15-01.02.33:721][917]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.15-01.02.33:721][917]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.01.15-01.02.33:721][917]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.15-01.02.33:722][917]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.15-01.02.33:722][917]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.15-01.02.33:722][917]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.15-01.02.33:724][917]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.15-01.02.33:739][917]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2023.01.15-01.02.33:739][917]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.15-01.02.33:739][917]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.15-01.02.33:739][917]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.15-01.02.33:740][917]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.01.15-01.02.33:740][917]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.01.15-01.02.33:741][917]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.01.15-01.02.33:741][917]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.01.15-01.02.33:741][917]LogInit: FAudioDevice initialized.
+[2023.01.15-01.02.33:741][917]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainMenu'.
+[2023.01.15-01.02.33:744][917]LogLoad: Game class is 'MenuGameMode_C'
+[2023.01.15-01.02.33:747][917]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.01.14-20.02.33
+[2023.01.15-01.02.33:749][917]LogWorld: Bringing up level for play took: 0.004794
+[2023.01.15-01.02.33:750][917]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2023.01.15-01.02.33:752][917]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.01.15-01.02.33:752][917]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.01.15-01.02.33:752][917]PIE: Server logged in
+[2023.01.15-01.02.33:752][917]PIE: Play in editor total start time 0,091 seconds.
+[2023.01.15-01.02.35:110][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.15-01.02.35:110][ 53]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2023.01.15-01.02.35:110][ 53]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.01.15-01.02.35:111][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-01.02.35:115][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.15-01.02.35:119][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-01.02.35:167][ 53]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.15-01.02.35:167][ 53]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.01.15-01.02.35:169][ 53]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.01.15-01.02.35:174][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.15-01.02.35:176][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.01.15-01.02.35:195][ 54]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.01.15-01.02.45:987][213]LogViewport: Scene viewport resized to 594x334, mode Windowed.
+[2023.01.15-01.02.53:831][984]LogViewport: Scene viewport resized to 594x334, mode Windowed.
+[2023.01.15-01.03.01:330][547]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Scenes/MenuGameMode.MenuGameMode
+[2023.01.15-01.03.01:331][547]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.15-01.03.03:803][669]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.01.15-01.03.03:803][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-01.03.13:398][252]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Scenes/MenuLevel.MenuLevel
+[2023.01.15-01.03.13:399][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.15-01.03.13:421][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.15-01.03.13:426][252]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.01.15-01.03.13:786][252]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.15-01.03.13:786][252]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.15-01.03.13:848][252]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.01.15-01.03.13:848][252]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.15-01.03.59:212][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.15-01.03.59:279][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/MenuLevel" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Scenes/MenuLevel.uasset" SILENT=true
+[2023.01.15-01.03.59:285][755]LogSavePackage: Moving output files for package: /Game/Scenes/MenuLevel
+[2023.01.15-01.03.59:285][755]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/MenuLevelE6005CAE409FCC89F8EA9996478E0664.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Scenes/MenuLevel.uasset'
+[2023.01.15-01.03.59:291][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 8.81 sec)
+[2023.01.15-01.03.59:305][755]AssetCheck: New page: Asset Save: MenuLevel
+[2023.01.15-01.03.59:305][755]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Scenes/MenuLevel.MenuLevel
+[2023.01.15-01.03.59:556][771]BlueprintLog: New page: Compile MenuLevel
+[2023.01.15-01.03.59:672][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.01.15-01.04.03:841][ 28]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.15-01.04.03:848][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.15-01.04.03:848][ 28]PIE: New page: PIE session: MainMenu (14/01/2023, 3:04:03 p. m.)
+[2023.01.15-01.04.03:848][ 28]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_MainMenu
+[2023.01.15-01.04.03:853][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005998s)
+[2023.01.15-01.04.03:853][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/MainMenu.MainMenu to /Game/Scenes/UEDPIE_0_MainMenu.MainMenu (0.006031s)
+[2023.01.15-01.04.03:853][ 28]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.15-01.04.03:854][ 28]LogAIModule: Creating AISystem for world MainMenu
+[2023.01.15-01.04.03:854][ 28]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2023.01.15-01.04.03:917][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.01.15-01.04.03:920][ 28]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.01.15-01.04.03:920][ 28]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.15-01.04.03:920][ 28]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.15-01.04.03:920][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.15-01.04.03:920][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.15-01.04.03:920][ 28]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.01.15-01.04.03:920][ 28]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.15-01.04.03:920][ 28]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.01.15-01.04.03:920][ 28]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.15-01.04.03:920][ 28]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.15-01.04.03:920][ 28]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.15-01.04.03:920][ 28]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.15-01.04.03:922][ 28]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.15-01.04.03:940][ 28]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2023.01.15-01.04.03:940][ 28]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.15-01.04.03:940][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.15-01.04.03:940][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.15-01.04.03:941][ 28]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.01.15-01.04.03:941][ 28]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.01.15-01.04.03:942][ 28]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.01.15-01.04.03:942][ 28]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.01.15-01.04.03:942][ 28]LogInit: FAudioDevice initialized.
+[2023.01.15-01.04.03:942][ 28]LogAudio: Display: Audio Device (ID: 24) registered with world 'MainMenu'.
+[2023.01.15-01.04.03:946][ 28]LogLoad: Game class is 'MenuGameMode_C'
+[2023.01.15-01.04.03:949][ 28]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.01.14-20.04.03
+[2023.01.15-01.04.03:950][ 28]LogWorld: Bringing up level for play took: 0.004667
+[2023.01.15-01.04.03:952][ 28]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2023.01.15-01.04.03:953][ 28]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.01.15-01.04.03:953][ 28]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.01.15-01.04.03:953][ 28]PIE: Server logged in
+[2023.01.15-01.04.03:954][ 28]PIE: Play in editor total start time 0,107 seconds.
+[2023.01.15-01.04.12:310][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.15-01.04.12:310][968]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_MainMenu
+[2023.01.15-01.04.12:310][968]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.01.15-01.04.12:310][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-01.04.12:313][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.15-01.04.12:319][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-01.04.12:378][968]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.15-01.04.12:379][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.01.15-01.04.12:380][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.01.15-01.04.12:384][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.15-01.04.12:387][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.01.15-01.04.12:440][969]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2023.01.15-01.04.12:446][969]LogViewport: Scene viewport resized to 594x334, mode Windowed.
+[2023.01.15-01.04.13:313][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.15-01.04.13:431][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.01.15-01.04.13:465][ 31]LogSavePackage: Moving output files for package: /Game/Scenes/MainMenu
+[2023.01.15-01.04.13:466][ 31]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/MainMenu70D09BF04FFD16BFDB840E9A2AA0D9ED.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Scenes/MainMenu.umap'
+[2023.01.15-01.04.13:476][ 31]LogFileHelpers: Saving map 'MainMenu' took 0.102
+[2023.01.15-01.04.13:484][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 8.98 sec)
+[2023.01.15-01.04.13:492][ 31]AssetCheck: New page: Asset Save: MainMenu
+[2023.01.15-01.04.13:492][ 31]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/MainMenu.MainMenu
+[2023.01.15-01.04.18:602][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.15-01.04.18:663][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scenes/MenuLevel" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Scenes/MenuLevel.uasset" SILENT=true
+[2023.01.15-01.04.18:670][370]LogSavePackage: Moving output files for package: /Game/Scenes/MenuLevel
+[2023.01.15-01.04.18:670][370]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/MenuLevelEC1B2FF646B11F7F8E1C69B161EFB71B.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Scenes/MenuLevel.uasset'
+[2023.01.15-01.04.18:676][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 9.06 sec)
+[2023.01.15-01.04.18:683][370]AssetCheck: New page: Asset Save: MenuLevel
+[2023.01.15-01.04.18:683][370]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Scenes/MenuLevel.MenuLevel
+[2023.01.15-01.04.37:543][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.01.15-01.04.37:611][645]LogAssetEditorSubsystem: Opening Asset editor for World /Game/InitMap.InitMap
+[2023.01.15-01.04.37:612][645]Cmd: MAP LOAD FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/InitMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.01.15-01.04.37:612][645]LightingResults: New page: Lighting Build
+[2023.01.15-01.04.37:612][645]LoadErrors: New page: Loading map: InitMap.umap
+[2023.01.15-01.04.37:641][645]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.01.15-01.04.37:642][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-01.04.37:642][645]MapCheck: New page: Map Check
+[2023.01.15-01.04.37:642][645]LightingResults: New page: Lighting Build
+[2023.01.15-01.04.37:694][645]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.15-01.04.37:697][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.01.15-01.04.37:701][645]LogWorld: UWorld::CleanupWorld for InitMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.15-01.04.37:701][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-01.04.37:760][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.01.15-01.04.37:822][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.01.15-01.04.37:827][645]LogAudio: Display: Audio Device (ID: 1) registered with world 'InitMap'.
+[2023.01.15-01.04.37:828][645]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.15-01.04.37:828][645]LogAIModule: Creating AISystem for world InitMap
+[2023.01.15-01.04.37:828][645]LogWorldPartition: ULevel::OnLevelLoaded(InitMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.01.15-01.04.37:828][645]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.15-01.04.37:828][645]LogWorldPartition: UWorldPartition::Initialize(Asset=InitMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.01.15-01.04.37:919][645]LogContentBundle: [Container: InitMap] Creating new contrainer.
+[2023.01.15-01.04.37:919][645]LogWorldPartition: Display: WorldPartition initialize took 89 ms (total: 264 ms)
+[2023.01.15-01.04.37:992][645]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.15-01.04.38:053][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.01.15-01.04.38:063][645]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.15-01.04.38:064][645]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,684ms to complete.
+[2023.01.15-01.04.38:064][645]LogFileHelpers: Loading map 'InitMap' took 0.453
+[2023.01.15-01.08.33:133][ 91]LogContentBrowser: Attempting asset rename: Actor_Blueprint -> Diamond
+[2023.01.15-01.08.33:154][ 91]LogMetaData: Removing '/Game/Blueprints/Diamond.Diamond:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Actor_Blueprint.PackageMetaData'
+[2023.01.15-01.08.33:154][ 91]LogMetaData: Removing '/Game/Blueprints/Diamond.SKEL_Diamond_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Actor_Blueprint.PackageMetaData'
+[2023.01.15-01.08.33:154][ 91]LogMetaData: Removing '/Game/Blueprints/Diamond.SKEL_Diamond_C' ref from Metadata '/Game/Blueprints/Actor_Blueprint.PackageMetaData'
+[2023.01.15-01.08.33:155][ 91]LogMetaData: Removing '/Game/Blueprints/Diamond.Diamond_C' ref from Metadata '/Game/Blueprints/Actor_Blueprint.PackageMetaData'
+[2023.01.15-01.08.33:155][ 91]LogMetaData: Removing '/Game/Blueprints/Diamond.Diamond:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Actor_Blueprint.PackageMetaData'
+[2023.01.15-01.08.33:155][ 91]LogMetaData: Removing '/Game/Blueprints/Diamond.Diamond:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Actor_Blueprint.PackageMetaData'
+[2023.01.15-01.08.33:155][ 91]LogMetaData: Removing '/Game/Blueprints/Diamond.Diamond:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Actor_Blueprint.PackageMetaData'
+[2023.01.15-01.08.33:155][ 91]LogMetaData: Removing '/Game/Blueprints/Diamond.SKEL_Diamond_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Actor_Blueprint.PackageMetaData'
+[2023.01.15-01.08.33:155][ 91]LogMetaData: Removing '/Game/Blueprints/Diamond.SKEL_Diamond_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Actor_Blueprint.PackageMetaData'
+[2023.01.15-01.08.33:155][ 91]LogMetaData: Removing '/Game/Blueprints/Diamond.Diamond_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Actor_Blueprint.PackageMetaData'
+[2023.01.15-01.08.33:155][ 91]LogMetaData: Removing '/Game/Blueprints/Diamond.Diamond_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Actor_Blueprint.PackageMetaData'
+[2023.01.15-01.08.33:155][ 91]LogMetaData: Removing '/Game/Blueprints/Diamond.Diamond_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Actor_Blueprint.PackageMetaData'
+[2023.01.15-01.08.33:155][ 91]LogMetaData: Removing '/Game/Blueprints/Diamond.SKEL_Diamond_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Actor_Blueprint.PackageMetaData'
+[2023.01.15-01.08.33:158][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.15-01.08.33:249][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Diamond" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Blueprints/Diamond.uasset" SILENT=true
+[2023.01.15-01.08.33:256][ 91]LogSavePackage: Moving output files for package: /Game/Blueprints/Diamond
+[2023.01.15-01.08.33:256][ 91]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/DiamondD61C9A80484A7C1DABBBE5A8E766EF09.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Blueprints/Diamond.uasset'
+[2023.01.15-01.08.33:257][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Actor_Blueprint" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Blueprints/Actor_Blueprint.uasset" SILENT=true
+[2023.01.15-01.08.33:257][ 91]LogSavePackage: Moving output files for package: /Game/Blueprints/Actor_Blueprint
+[2023.01.15-01.08.33:257][ 91]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/Actor_BlueprintD58F916440DFF0F4B397E18215D854D6.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Blueprints/Actor_Blueprint.uasset'
+[2023.01.15-01.08.33:264][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 9.16 sec)
+[2023.01.15-01.08.33:271][ 91]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.15-01.08.33:271][ 91]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Diamond.Diamond
+[2023.01.15-01.08.33:271][ 91]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Blueprints/Actor_Blueprint.Actor_Blueprint
+[2023.01.15-01.08.33:271][ 91]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Blueprints/Actor_Blueprint.Default__Actor_Blueprint_C
+[2023.01.15-01.08.33:271][ 91]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Blueprints/Actor_Blueprint.Actor_Blueprint_C
+[2023.01.15-01.10.29:262][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.15-01.10.29:343][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Coin" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Blueprints/Coin.uasset" SILENT=true
+[2023.01.15-01.10.29:348][800]LogSavePackage: Moving output files for package: /Game/Blueprints/Coin
+[2023.01.15-01.10.29:348][800]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/CoinE7EE77954C7F49A9E00A1983B1C47A82.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Blueprints/Coin.uasset'
+[2023.01.15-01.10.29:400][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 9.30 sec)
+[2023.01.15-01.10.29:414][800]AssetCheck: New page: Asset Save: Coin
+[2023.01.15-01.10.29:414][800]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Coin.Coin
+[2023.01.15-01.10.47:791][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.01.15-01.10.49:125][943]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.15-01.10.49:201][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.01.15-01.10.49:268][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.01.15-01.10.49:330][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.01.15-01.10.55:998][366]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.01.15-01.10.56:064][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Coin" FILE="D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Blueprints/Coin.uasset" SILENT=true
+[2023.01.15-01.10.56:069][366]LogSavePackage: Moving output files for package: /Game/Blueprints/Coin
+[2023.01.15-01.10.56:069][366]LogSavePackage: Moving 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Saved/CoinEB4271CD4255B772DE66E49F141DBF7E.tmp' to 'D:/Documentos/MaestriaVideJuegos/Unreal/GameProject/AsignaturaMotoresUE/Content/Blueprints/Coin.uasset'
+[2023.01.15-01.10.56:074][366]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 9.38 sec)
+[2023.01.15-01.10.56:081][366]AssetCheck: New page: Asset Save: Coin
+[2023.01.15-01.10.56:081][366]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Coin.Coin
+[2023.01.15-01.10.59:546][575]LogSlate: Window 'MenuLevel' being destroyed
+[2023.01.15-01.10.59:552][575]LogSlate: Window 'MenuLevel' being destroyed
+[2023.01.15-01.10.59:559][575]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.15-01.10.59:559][575]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.01.15-01.10.59:559][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-01.10.59:616][575]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.15-01.10.59:616][575]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.01.15-01.10.59:616][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-01.10.59:673][575]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.15-01.10.59:673][575]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.01.15-01.10.59:673][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-01.10.59:714][575]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.15-01.10.59:714][575]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.01.15-01.10.59:714][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-01.10.59:770][575]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.01.15-01.10.59:770][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.15-01.10.59:781][575]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.01.15-01.10.59:781][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
